@@ -58,7 +58,7 @@ Configure the node as shown here
    #!/bin/bash
    echo "_______________________________"
    echo "|                             |"
-   echo "|   Welcome to Valaxy Demo    |"
+   echo "|  Welcome to chandan Demo    |"
    echo "|           _nnnn_            |"
    echo "|          dGGGGMMb           |"
    echo "|         @p~qp~~qMb          |"
